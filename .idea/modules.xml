@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/banzai.iml" filepath="$PROJECT_DIR$/.idea/banzai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banzai.iml" filepath="$PROJECT_DIR$/.idea/modules/banzai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banzai_main.iml" filepath="$PROJECT_DIR$/.idea/modules/banzai_main.iml" group="banzai" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banzai_test.iml" filepath="$PROJECT_DIR$/.idea/modules/banzai_test.iml" group="banzai" />
     </modules>
   </component>
 </project>
